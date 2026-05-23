@@ -47,7 +47,7 @@ Color-Detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/color-detection.git
+git clone https://github.com/ReddyNohith/color_detection.git
 cd color-detection
 ```
 
@@ -110,6 +110,7 @@ Red R=255 G=0 B=0
 
 ## Author
 P Reddy Nohith
+
 Developed as a beginner-friendly Computer Vision mini project using Python.
 
 ---
